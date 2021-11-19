@@ -3,7 +3,17 @@ guid: 3738da8f3db8bc84aad91ecef320694c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mantasaur_Fur
+    second: {fileID: 2100000, guid: 82d1a86515dcd554d9874661b76e2b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mantasaur_MouthEyes
+    second: {fileID: 2100000, guid: 82d1a86515dcd554d9874661b76e2b36, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
