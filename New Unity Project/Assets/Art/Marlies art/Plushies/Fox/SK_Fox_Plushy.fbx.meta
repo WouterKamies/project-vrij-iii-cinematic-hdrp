@@ -3,7 +3,17 @@ guid: 837a3d572b276a94e893357857008ba6
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fox_FaceTail
+    second: {fileID: 2100000, guid: 2cf38520643ba24469a5256489fb5388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fox_Fur
+    second: {fileID: 2100000, guid: 2cf38520643ba24469a5256489fb5388, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
